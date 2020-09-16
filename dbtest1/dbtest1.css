@@ -1,0 +1,31 @@
+.top-bar{
+    text-align:center;
+}
+.content-bar{
+    padding-top:5px;
+}
+h1{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 900;
+}
+.btn{
+    margin:0px 5px 0px 5px;
+    padding:0px;
+    border-radius: 0px;
+}
+.emoji-div{
+    margin:15px;
+    padding:10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 5px solid #000;
+    border-radius: 10px;
+    box-shadow: 3px 3px #000;
+}
+
+.air-karma{padding-left:10px; font-weight:600;}
+.water-karma{padding-left:10px; font-weight:600;}
+.fire-karma{padding-left:10px; font-weight:600;}
+.space-karma{padding-left:10px; font-weight:600;}
+.earth-karma{padding-left:10px; font-weight:600;}
